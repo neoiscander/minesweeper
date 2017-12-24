@@ -1,0 +1,23 @@
+{
+  "name": "minesweeper",
+  "version": "1.0.0",
+  "description": "Minesweeper project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neoiscander/minesweeper.git"
+  },
+  "author": "Sergeev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neoiscander/minesweeper/issues"
+  },
+  "homepage": "https://github.com/neoiscander/minesweeper#readme",
+  "devDependencies": {
+    "eslint": "^4.13.1",
+    "eslint-plugin-react": "^7.5.1"
+  }
+}
